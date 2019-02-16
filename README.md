@@ -1,3 +1,6 @@
+# React Nanodegree - Udacity
+Repository created to save exercises and projects from React to Nanodegree program.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
